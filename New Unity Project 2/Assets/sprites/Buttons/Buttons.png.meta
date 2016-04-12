@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ccce08759512d48b783001373661c491
-timeCreated: 1459301863
+timeCreated: 1444608973
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -9,11 +9,6 @@ TextureImporter:
     21300004: Pause Button
     21300006: Leaderboards Button
     21300008: Panel
-    21300010: Buttons_0
-    21300012: Buttons_1
-    21300014: Buttons_2
-    21300016: Buttons_3
-    21300018: Buttons_4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -27,7 +22,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: 0.25
+    heightScale: .25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
@@ -52,7 +47,7 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
@@ -60,7 +55,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Buttons_0
+    - name: Play Button
       rect:
         serializedVersion: 2
         x: 19
@@ -68,16 +63,9 @@ TextureImporter:
         width: 271
         height: 145
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -135.5, y: 72.5}
-        - {x: -135.5, y: -70.5}
-        - {x: -133.5, y: -72.5}
-        - {x: 132.5, y: -72.5}
-        - {x: 135.5, y: -69.5}
-        - {x: 135.5, y: 72.5}
-    - name: Buttons_1
+    - name: Resume Game
       rect:
         serializedVersion: 2
         x: 337
@@ -85,16 +73,9 @@ TextureImporter:
         width: 158
         height: 145
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -79, y: 72.5}
-        - {x: -79, y: -70.5}
-        - {x: -77, y: -72.5}
-        - {x: 76, y: -72.5}
-        - {x: 79, y: -69.5}
-        - {x: 79, y: 72.5}
-    - name: Buttons_2
+    - name: Pause Button
       rect:
         serializedVersion: 2
         x: 10
@@ -102,16 +83,9 @@ TextureImporter:
         width: 132
         height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -63, y: 65.5}
-        - {x: -66, y: 62.5}
-        - {x: -66, y: -63.5}
-        - {x: -64, y: -65.5}
-        - {x: 66, y: -65.5}
-        - {x: 66, y: 65.5}
-    - name: Buttons_3
+    - name: Leaderboards Button
       rect:
         serializedVersion: 2
         x: 164
@@ -119,16 +93,9 @@ TextureImporter:
         width: 158
         height: 145
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -79, y: 72.5}
-        - {x: -79, y: -70.5}
-        - {x: -77, y: -72.5}
-        - {x: 76, y: -72.5}
-        - {x: 79, y: -69.5}
-        - {x: 79, y: 72.5}
-    - name: Buttons_4
+    - name: Panel
       rect:
         serializedVersion: 2
         x: 337
@@ -136,16 +103,8 @@ TextureImporter:
         width: 158
         height: 145
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -79, y: 72.5}
-        - {x: -79, y: -70.5}
-        - {x: -77, y: -72.5}
-        - {x: 76, y: -72.5}
-        - {x: 79, y: -69.5}
-        - {x: 79, y: 72.5}
-    outline: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
